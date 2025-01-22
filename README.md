@@ -1,6 +1,6 @@
 # 介绍
 
-该源仅作自用用途，该大佬的直播源基础上对自身需求进行优化。
+该源仅作自用用途，在大佬的直播源基础上对自身需求进行优化。
 
 https://raw.githubusercontent.com/Codename-GitHub/IPTV/refs/heads/main/Customized-IPTV.txt
 
