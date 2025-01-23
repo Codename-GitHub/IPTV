@@ -5,5 +5,3 @@
 https://raw.githubusercontent.com/Codename-GitHub/IPTV/refs/heads/main/Customized-IPTV.m3u
 
 https://raw.githubusercontent.com/Codename-GitHub/IPTV/refs/heads/main/Customized-IPTV.txt
-
-https://gitee.com/z520_1314/IPTV/raw/main/Customized-IPTV.txt
