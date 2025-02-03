@@ -97,70 +97,82 @@ http://192.168.9.1:10086/rtp/239.11.0.35:1025
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.iill.top/logo/CETV4.png" group-title="•央视「本地频道」",CETV-4 职业教育
 http://192.168.9.1:10086/rtp/239.11.0.176:1025
 
-#EXTINF:-1 tvg-id="TJB" tvg-name="TJB" tvg-logo="https://epg.v1.mk/logo/TJB.png" group-title="•韩国「网络频道」",TJB
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/jobplustv.png" group-title="•韩国「网络频道」",Job Plus TV
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="•韩国「网络频道」",Arirang 阿里郎
-https://assets.livednow.com/logo/Arirang-TV.png
-#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://epg.v1.mk/logo/kbs1.png" group-title="•韩国「网络频道」",KBS 1
-https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/kbs2.png" group-title="•韩国「网络频道」",KBS 2
-https://tv.iill.top/kbs/12&p=0
-#EXTINF:-1 group-title="•韩国「网络频道」",BBS 불교 방송
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",CJ OnStyle
-https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",CJ OnStyle Plus
-https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",CTS 基督教기독교TV
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",EBS+ 1
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",EBS+ 2
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/30/large/20220930173234951785_34.jpg" group-title="•韩国「网络频道」",EBS 1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/30/large/20220930173408501438_51.jpg" group-title="•韩国「网络频道」",EBS 2
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 group-title="•韩国「网络频道」",EBS 키즈
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/jobplustv.png" group-title="•韩国「网络频道」",Job Plus tv
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-#EXTINF:-1 group-title="•韩国「网络频道」",GS Shop
-https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",Gugak TV
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",KBC SBS 综艺
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 group-title="•韩国「网络频道」",KBS Joy
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 group-title="•韩国「网络频道」",KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 group-title="•韩国「网络频道」",KBS LIFE
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="•韩国「网络频道」",KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",KBS Story
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" group-title="•韩国「网络频道」",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",KCTV 광주
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 tvg-id="KoreaTV" tvg-name="KoreaTV" group-title="•韩国「网络频道」",Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/MBC.png" group-title="•韩国「网络频道」",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://epg.v1.mk/logo/MBC.png" group-title="•韩国「网络频道」",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBS" tvg-name="NBS" group-title="•韩国「网络频道」",NBS
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://epg.v1.mk/logo/SBS.png" group-title="•韩国「网络频道」",SBS
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",TBS Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="•韩国「网络频道」",국방国防TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="日テレNEWS24HD" tvg-name="日テレNEWS24HD" tvg-logo="https://epg.iill.top/logo/日テレNEWS24.png" group-title="•日本「JP」",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="JSPORTS1HD" tvg-name="JSPORTS1HD" tvg-logo="https://epg.iill.top/logo/JSPORTS1.png" group-title="•日本「JP」",J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="JSPORTS2HD" tvg-name="JSPORTS2HD" tvg-logo="https://epg.iill.top/logo/JSPORTS2.png" group-title="•日本「JP」",J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="JSPORTS3HD" tvg-name="JSPORTS3HD" tvg-logo="https://epg.iill.top/logo/JSPORTS3.png" group-title="•日本「JP」",J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="JSPORTS4HD" tvg-name="JSPORTS4HD" tvg-logo="https://epg.iill.top/logo/JSPORTS4.png" group-title="•日本「JP」",J SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="钓りビジョンHD" tvg-name="钓りビジョンHD" tvg-logo="https://epg.iill.top/logo/钓りビジョン.png" group-title="•日本「JP」",釣りビジョン
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="东映チャンネルHD" tvg-name="东映チャンネルHD" tvg-logo="https://epg.iill.top/logo/东映チャンネル.png" group-title="•日本「JP」",東映チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="歌谣ポップスチャンネル" tvg-name="歌谣ポップスチャンネル" tvg-logo="https://epg.iill.top/logo/歌谣ポップスチャンネル.png" group-title="•日本「JP」",歌謡ポップスチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="日本映画専门チャンネル　HD" tvg-name="日本映画専门チャンネル　HD" tvg-logo="https://epg.iill.top/logo/日本映画専门チャンネル.png" group-title="•日本「JP」",日本映画専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="チャンネル银河　歴史ドラマ・サスペンス・日本のうた" tvg-name="チャンネル银河　歴史ドラマ・サスペンス・日本のうた" tvg-logo="https://epg.iill.top/logo/チャンネル银河.png" group-title="•日本「JP」",チャンネル銀河
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="映画･チャンネルNECOHD" tvg-name="映画･チャンネルNECOHD" tvg-logo="https://epg.iill.top/logo/映画･チャンネルNECO.png" group-title="•日本「JP」",映画･チャンネルNECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="テレビ朝日" tvg-name="テレビ朝日" tvg-logo="https://epg.iill.top/logo/テレビ朝日.png" group-title="•日本「JP」",テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="テレビ东京" tvg-name="テレビ东京" tvg-logo="https://epg.iill.top/logo/テレビ东京.png" group-title="•日本「JP」",テレビ東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="ファミリー剧场HD" tvg-name="ファミリー剧场HD" tvg-logo="https://epg.iill.top/logo/ファミリー剧场.png" group-title="•日本「JP」",ファミリー劇場
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="フジテレビ" tvg-name="フジテレビ" tvg-logo="https://epg.iill.top/logo/フジテレビ.png" group-title="•日本「JP」",フジテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="ホームドラマチャンネルＨＤ韩流・时代剧・国内ドラマ" tvg-name="ホームドラマチャンネルＨＤ韩流・时代剧・国内ドラマ" tvg-logo="https://epg.iill.top/logo/ホームドラマチャンネル.png" group-title="•日本「JP」",ホームドラマチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="ムービープラス" tvg-name="ムービープラス" tvg-logo="https://epg.iill.top/logo/ムービープラス.png" group-title="•日本「JP」",ムービープラス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="日本テレビ" tvg-name="日本テレビ" tvg-logo="https://epg.iill.top/logo/日本テレビ.png" group-title="•日本「JP」",日本テレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="日テレNEWS24HD" tvg-name="日テレNEWS24HD" tvg-logo="https://epg.iill.top/logo/日テレNEWS24.png" group-title="•日本「JP」",日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="日テレジータスHD" tvg-name="日テレジータスHD" tvg-logo="https://epg.iill.top/logo/日テレジータス.png" group-title="•日本「JP」",日テレジータス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="时代剧専门チャンネルHD" tvg-name="时代剧専门チャンネルHD" tvg-logo="https://epg.iill.top/logo/时代剧専门チャンネル.png" group-title="•日本「JP」",時代劇専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="囲碁・将棋チャンネル" tvg-name="囲碁・将棋チャンネル" tvg-logo="https://epg.iill.top/logo/囲碁・将棋チャンネル.png" group-title="•日本「JP」",囲碁·将棋チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="BSアニマックス" tvg-name="BSアニマックス" tvg-logo="https://epg.iill.top/logo/BSアニマックス.png" group-title="•日本「JP」",BSアニマックス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="BSテレ东" tvg-name="BSテレ东" tvg-logo="https://epg.iill.top/logo/BSテレ东.png" group-title="•日本「JP」",BSテレ東
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="GAORASPORTSHD" tvg-name="GAORASPORTSHD" tvg-logo="https://epg.iill.top/logo/GAORASPORTS.png" group-title="•日本「JP」",GAORA SPORT
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="LALATV" tvg-name="LALATV" tvg-logo="https://epg.iill.top/logo/LALATV.png" group-title="•日本「JP」",LaLaTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="NHKBS4K" tvg-name="NHKBS4K" tvg-logo="https://epg.iill.top/logo/NHKBS.png" group-title="•日本「JP」",NHK BS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="NHK东京　教育" tvg-name="NHK东京　教育" tvg-logo="https://epg.iill.top/logo/NHK教育.png" group-title="•日本「JP」",NHK教育
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="NHK东京　総合" tvg-name="NHK东京　総合" tvg-logo="https://epg.iill.top/logo/NHK综合.png" group-title="•日本「JP」",NHK総合
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="WOWOWシネマ" tvg-name="WOWOWシネマ" tvg-logo="https://epg.iill.top/logo/WOWOWシネマ.png" group-title="•日本「JP」",WOWOWシネマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="WOWOWプ" tvg-name="WOWOWプ" tvg-logo="https://epg.iill.top/logo/WOWOWプライム.png" group-title="•日本「JP」",WOWOWプライム
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="WOWOWライブ" tvg-name="WOWOWライブ" tvg-logo="https://epg.iill.top/logo/WOWOWライブ.png" group-title="•日本「JP」",WOWOWライブ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="キッズステーションHD" tvg-name="キッズステーションHD" tvg-logo="https://epg.iill.top/logo/キッズステーション.png" group-title="•日本「JP」",キッズステーション
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="ゴルフネットワーク" tvg-name="ゴルフネットワーク" tvg-logo="https://epg.iill.top/logo/ゴルフネットワーク.png" group-title="•日本「JP」",ゴルフネットワーク
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="スーパー" tvg-name="スーパー" tvg-logo="https://epg.iill.top/logo/スーパー.png" group-title="•日本「JP」",スーパー!ドラマTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="スカイA" tvg-name="スカイA" tvg-logo="https://epg.iill.top/logo/スカイA.png" group-title="•日本「JP」",スカイA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="スターチャンネル1" tvg-name="スターチャンネル1" tvg-logo="https://epg.iill.top/logo/スターチャンネル1.png" group-title="•日本「JP」",スターチャンネル1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="スターチャンネル2" tvg-name="スターチャンネル2" tvg-logo="https://epg.iill.top/logo/スターチャンネル2.png" group-title="•日本「JP」",スターチャンネル2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="スターチャンネル3" tvg-name="スターチャンネル3" tvg-logo="https://epg.iill.top/logo/スターチャンネル3.png" group-title="•日本「JP」",スターチャンネル3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
