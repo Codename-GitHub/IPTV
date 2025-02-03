@@ -113,19 +113,19 @@ http://192.168.9.1:10086/rtp/239.11.0.78:1025
 http://192.168.9.1:10086/rtp/239.10.0.63:1025
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.iill.top/logo/广东民生.png" group-title="•广东「本地频道」",广东民生
 http://192.168.9.1:10086/rtp/239.11.0.80:1025
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="•广东「本地频道」",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="•广东「本地频道」",广东体育
 http://192.168.9.1:10086/rtp/239.10.0.113:1025
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.iill.top/logo/广东新闻.png" group-title="•广东「本地频道」",广东新闻
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="•广东「本地频道」",广东新闻
 http://192.168.9.1:10086/rtp/239.10.0.199:1025
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="•广东「本地频道」",广东影视
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="•广东「本地频道」",广东影视
 http://192.168.9.1:10086/rtp/239.11.0.79:1025
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="•广东「本地频道」",嘉佳卡通
 http://192.168.9.1:10086/rtp/239.10.0.200:1025
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.iill.top/logo/广东少儿.png" group-title="•广东「本地频道」",广东少儿
 http://192.168.9.1:10086/rtp/239.11.0.81:1025
-#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.iill.top/logo/广东经济科教.png" group-title="•广东「本地频道」",广东经济科教
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="•广东「本地频道」",广东经济科教
 http://192.168.9.1:10086/rtp/239.10.0.112:1025
-#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.iill.top/logo/广东综艺.png" group-title="•广东「本地频道」",广东4K超高清
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="•广东「本地频道」",广东4K超高清
 http://192.168.9.1:10086/rtp/239.10.0.74:1025
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.cn/tv/岭南戏曲.png" group-title="•广东「本地频道」",岭南戏曲
 http://192.168.9.1:10086/rtp/239.11.0.180:1025
