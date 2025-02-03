@@ -96,3 +96,71 @@ http://192.168.9.1:10086/rtp/239.10.0.223:1025
 http://192.168.9.1:10086/rtp/239.11.0.35:1025
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.iill.top/logo/CETV4.png" group-title="•央视「本地频道」",CETV-4 职业教育
 http://192.168.9.1:10086/rtp/239.11.0.176:1025
+
+#EXTINF:-1 tvg-id="TJB" tvg-name="TJB" tvg-logo="https://epg.v1.mk/logo/TJB.png" group-title="•韩国「网络频道」",TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/jobplustv.png" group-title="•韩国「网络频道」",Job Plus TV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="•韩国「网络频道」",Arirang 阿里郎
+https://assets.livednow.com/logo/Arirang-TV.png
+#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://epg.v1.mk/logo/kbs1.png" group-title="•韩国「网络频道」",KBS 1
+https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/kbs2.png" group-title="•韩国「网络频道」",KBS 2
+https://tv.iill.top/kbs/12&p=0
+#EXTINF:-1 group-title="•韩国「网络频道」",BBS 불교 방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",CTS 基督教기독교TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",EBS+ 1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",EBS+ 2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/30/large/20220930173234951785_34.jpg" group-title="•韩国「网络频道」",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/09/30/large/20220930173408501438_51.jpg" group-title="•韩国「网络频道」",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+#EXTINF:-1 group-title="•韩国「网络频道」",EBS 키즈
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/jobplustv.png" group-title="•韩国「网络频道」",Job Plus tv
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="•韩国「网络频道」",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",Gugak TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",KBC SBS 综艺
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 group-title="•韩国「网络频道」",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 group-title="•韩国「网络频道」",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 group-title="•韩国「网络频道」",KBS LIFE
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="•韩国「网络频道」",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" group-title="•韩国「网络频道」",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",KCTV 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 tvg-id="KoreaTV" tvg-name="KoreaTV" group-title="•韩国「网络频道」",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/MBC.png" group-title="•韩国「网络频道」",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://epg.v1.mk/logo/MBC.png" group-title="•韩国「网络频道」",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBS" tvg-name="NBS" group-title="•韩国「网络频道」",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://epg.v1.mk/logo/SBS.png" group-title="•韩国「网络频道」",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="•韩国「网络频道」",국방国防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
