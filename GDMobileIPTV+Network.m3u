@@ -216,6 +216,48 @@ http://192.168.9.1:10086/rtp/239.11.0.181:1025
 http://192.168.9.1:10086/rtp/239.11.0.95:1025
 #EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="https://epg.112114.xyz/logo/广东移动.png" group-title="•广东「本地频道」",广东移动
 http://192.168.9.1:10086/rtp/239.10.0.143:1025
+#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png" group-title="广东",佛山公共高清
+http://192.168.9.1:10086/rtp/239.11.0.114:1025
+#EXTINF:-1 tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://epg.112114.xyz/logo/佛山南海.png" group-title="广东",佛山南海高清
+http://192.168.9.1:10086/rtp/239.11.0.115:1025
+#EXTINF:-1 tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://epg.112114.xyz/logo/佛山顺德.png" group-title="广东",佛山顺德高清
+http://192.168.9.1:10086/rtp/239.11.0.116:1025
+#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.112114.xyz/logo/佛山影视.png" group-title="广东",佛山影视高清
+http://192.168.9.1:10086/rtp/239.11.0.117:1025
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png" group-title="广东",佛山综合高清
+http://192.168.9.1:10086/rtp/239.11.0.118:1025
+#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://8820.kstore.space/肇庆综合1.png" group-title="广东",肇庆综合高清
+http://192.168.9.1:10086/rtp/239.11.0.53:1025
+#EXTINF:-1 tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="https://8820.kstore.space/肇庆综合1.png" group-title="广东",肇庆生活服务高清
+http://192.168.9.1:10086/rtp/239.11.0.54:1025
+#EXTINF:-1 tvg-id="清远新闻综合" tvg-name="清远新闻综合" tvg-logo="https://8820.kstore.space/清远新闻综合.png" group-title="广东",清远新闻综合高清
+http://192.168.9.1:10086/rtp/239.11.0.74:1025
+#EXTINF:-1 tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://8820.kstore.space/清远生活服务.png" group-title="广东",清远文旅生活高清
+http://192.168.9.1:10086/rtp/239.11.0.75:1025
+#EXTINF:-1 tvg-id="韶关新闻" tvg-name="韶关新闻" tvg-logo="https://8820.kstore.space/韶关新闻综合.png" group-title="广东",韶关综合高清
+http://192.168.9.1:10086/rtp/239.11.0.84:1025
+#EXTINF:-1 tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png" group-title="广东",江门侨乡生活高清
+http://192.168.9.1:10086/rtp/239.10.0.139:1025
+#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="广东",江门综合高清
+http://192.168.9.1:10086/rtp/239.10.0.219:1025
+#EXTINF:-1 tvg-id="珠海-1" tvg-name="珠海-1" tvg-logo="https://8820.kstore.space/珠海综合.png" group-title="广东",珠海-1高清
+http://192.168.9.1:10086/rtp/239.10.0.242:1025
+#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="广东",中山综合高清
+http://192.168.9.1:10086/rtp/239.11.0.122:1025
+#EXTINF:-1 tvg-id="中山香山文化" tvg-name="中山香山文化" tvg-logo="https://epg.112114.xyz/logo/香山文化.png" group-title="广东",中山香山文化高清
+http://192.168.9.1:10086/rtp/239.11.0.123:1025
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png" group-title="广东",云浮综合高清
+http://192.168.9.1:10086/rtp/239.11.0.96:1025
+#EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.112114.xyz/logo/云浮文旅.png" group-title="广东",云浮文旅高清
+http://192.168.9.1:10086/rtp/239.11.0.97:1025
+#EXTINF:-1 tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://epg.112114.xyz/logo/茂名文化生活.png" group-title="广东",茂名文化生活高清
+http://192.168.9.1:10086/rtp/239.11.0.99:1025
+#EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.112114.xyz/logo/茂名综合.png" group-title="广东",茂名综合高清
+http://192.168.9.1:10086/rtp/239.10.0.238:1025
+#EXTINF:-1 tvg-id="湛江新闻综合" tvg-name="湛江新闻综合" tvg-logo="https://8820.kstore.space/湛江公共.png" group-title="广东",湛江新闻综合高清
+http://192.168.9.1:10086/rtp/239.10.0.253:1025
+#EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://8820.kstore.space/湛江公共.png" group-title="广东",湛江公共高清
+http://192.168.9.1:10086/rtp/239.10.0.254:1025
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•港澳「网络频道」",鳳凰衛視·中文「限UA」
 https://tv.iill.top/IPTV/fhzw
