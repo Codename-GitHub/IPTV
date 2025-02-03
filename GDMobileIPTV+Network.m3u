@@ -258,6 +258,22 @@ http://192.168.9.1:10086/rtp/239.10.0.238:1025
 http://192.168.9.1:10086/rtp/239.10.0.253:1025
 #EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://8820.kstore.space/湛江公共.png" group-title="•广东「本地频道」",湛江公共高清
 http://192.168.9.1:10086/rtp/239.10.0.254:1025
+#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-13/17840269-4308-4ae5-ad34-0763e2a41b5b.png" group-title="•广东「本地频道」",汕头新闻综合
+http://192.168.9.1:10086/rtp/239.21.0.101:3744
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-13/203eefb4-bc69-4b30-9baa-3ce8ed048089.png" group-title="•广东「本地频道」",汕头经济生活
+http://192.168.9.1:10086/rtp/239.21.0.102:3748
+#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-13/3f9d3ddb-5981-4778-a9bf-a52345270fb3.png" group-title="•广东「本地频道」",汕头文旅体育
+http://192.168.9.1:10086/rtp/239.21.0.103:3752
+#EXTINF:-1 tvg-id="汕尾1" tvg-name="汕尾1" tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032917051405714690.png" group-title="•广东「本地频道」",汕尾1测试
+http://192.168.9.1:10086/rtp/239.20.0.23:3312
+#EXTINF:-1 tvg-id="汕尾2" tvg-name="汕尾2" tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032917045950140418.png" group-title="•广东「本地频道」",汕尾2测试
+http://192.168.9.1:10086/rtp/239.20.0.22:3316
+#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="http://183.235.16.92:8081/pics/category/202006/24/2020062409552801826236.png" group-title="•广东「本地频道」",揭阳综合
+http://192.168.9.1:10086/rtp/239.21.0.82:3668
+#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="http://183.235.16.92:8081/pics/category/202006/24/2020062409553652569911.png" group-title="•广东「本地频道」",揭阳公共
+http://192.168.9.1:10086/rtp/239.21.0.83:3672
+#EXTINF:-1 tvg-id="河源新闻综合" tvg-name="河源新闻综合" tvg-logo="http://183.235.16.92:8081/pics/category/202003/01/2020030117193955295638.png" group-title="•广东「本地频道」",河源新闻综合
+http://192.168.9.1:10086/rtp/239.21.0.48:3532
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•港澳「网络频道」",鳳凰衛視·中文「限UA」
 https://tv.iill.top/IPTV/fhzw
