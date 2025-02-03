@@ -173,7 +173,7 @@ http://192.168.9.1:10086/rtp/239.10.0.170:1025
 http://192.168.9.1:10086/rtp/239.10.0.140:1025
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="•卫视「本地频道」",厦门卫视
 http://192.168.9.1:10086/rtp/239.10.0.178:1025
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="•卫视「本地频道」",山东教育卫视
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="•卫视「本地频道」",山东教育卫视
 http://192.168.9.1:10086/rtp/239.10.0.176:1025
 
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="•广东「本地频道」",广州综合
