@@ -88,7 +88,7 @@ http://192.168.9.1:10086/rtp/239.11.0.106:1025
 http://192.168.9.1:10086/rtp/239.11.0.107:1025
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="•央视「本地频道」",CGTN 俄语
 http://192.168.9.1:10086/rtp/239.11.0.108:1025
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="教育",CETV-早期教育高清
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="•央视「本地频道」",CETV-早期教育高清
 http://192.168.9.1:10086/rtp/239.11.0.100:1025
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.iill.top/logo/CETV1.png" group-title="•央视「本地频道」",CETV 1 综合教育
 http://192.168.9.1:10086/rtp/239.10.0.223:1025
