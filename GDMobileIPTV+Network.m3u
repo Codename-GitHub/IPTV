@@ -96,7 +96,7 @@ http://192.168.9.1:10086/rtp/239.10.0.223:1025
 http://192.168.9.1:10086/rtp/239.11.0.35:1025
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.iill.top/logo/CETV4.png" group-title="•央视「本地频道」",CETV-4 职业教育
 http://192.168.9.1:10086/rtp/239.11.0.176:1025
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="其他",CHC影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="•央视「本地频道」",CHC影迷电影
 http://192.168.9.1:10086/rtp/239.11.0.129:1025
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="•卫视「本地频道」",北京卫视
@@ -173,7 +173,7 @@ http://192.168.9.1:10086/rtp/239.10.0.170:1025
 http://192.168.9.1:10086/rtp/239.10.0.140:1025
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="•卫视「本地频道」",厦门卫视
 http://192.168.9.1:10086/rtp/239.10.0.178:1025
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="•卫视「本地频道」",山东教育卫视
 http://192.168.9.1:10086/rtp/239.10.0.176:1025
 
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="•广东「本地频道」",广州综合
@@ -186,7 +186,7 @@ http://192.168.9.1:10086/rtp/239.11.0.140:1025
 http://192.168.9.1:10086/rtp/239.11.0.141:1025
 #EXTINF:-1 tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="•广东「本地频道」",广州南国都市
 http://192.168.9.1:10086/rtp/239.11.0.170:1025
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视高清
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="•广东「本地频道」",广东卫视
 http://192.168.9.1:10086/rtp/239.10.0.111:1025
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="•广东「本地频道」",大湾区卫视
 http://192.168.9.1:10086/rtp/239.11.0.78:1025
