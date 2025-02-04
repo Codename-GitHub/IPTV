@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz"
+#EXTM3U url-tvg="https://e.erw.cc/all.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
@@ -98,7 +98,6 @@ http://192.168.9.1:10086/rtp/239.11.0.35:1025
 http://192.168.9.1:10086/rtp/239.11.0.176:1025
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="•央视「本地频道」",CHC影迷电影
 http://192.168.9.1:10086/rtp/239.11.0.129:1025
-
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="•卫视「本地频道」",北京卫视
 http://192.168.9.1:10086/rtp/239.10.0.131:1025
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="•卫视「本地频道」",湖南卫视
@@ -175,7 +174,6 @@ http://192.168.9.1:10086/rtp/239.10.0.140:1025
 http://192.168.9.1:10086/rtp/239.10.0.178:1025
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="•卫视「本地频道」",山东教育卫视
 http://192.168.9.1:10086/rtp/239.10.0.176:1025
-
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="•广东「本地频道」",广州综合
 http://192.168.9.1:10086/rtp/239.11.0.138:1025
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="•广东「本地频道」",广州新闻
@@ -258,29 +256,12 @@ http://192.168.9.1:10086/rtp/239.10.0.238:1025
 http://192.168.9.1:10086/rtp/239.10.0.253:1025
 #EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://8820.kstore.space/湛江公共.png" group-title="•广东「本地频道」",湛江公共高清
 http://192.168.9.1:10086/rtp/239.10.0.254:1025
-#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-13/17840269-4308-4ae5-ad34-0763e2a41b5b.png" group-title="•广东「本地频道」",汕头新闻综合
-http://192.168.9.1:10086/rtp/239.21.0.101:3744
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-13/203eefb4-bc69-4b30-9baa-3ce8ed048089.png" group-title="•广东「本地频道」",汕头经济生活
-http://192.168.9.1:10086/rtp/239.21.0.102:3748
-#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-13/3f9d3ddb-5981-4778-a9bf-a52345270fb3.png" group-title="•广东「本地频道」",汕头文旅体育
-http://192.168.9.1:10086/rtp/239.21.0.103:3752
-#EXTINF:-1 tvg-id="汕尾1" tvg-name="汕尾1" tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032917051405714690.png" group-title="•广东「本地频道」",汕尾1测试
-http://192.168.9.1:10086/rtp/239.20.0.23:3312
-#EXTINF:-1 tvg-id="汕尾2" tvg-name="汕尾2" tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032917045950140418.png" group-title="•广东「本地频道」",汕尾2测试
-http://192.168.9.1:10086/rtp/239.20.0.22:3316
-#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="http://183.235.16.92:8081/pics/category/202006/24/2020062409552801826236.png" group-title="•广东「本地频道」",揭阳综合
-http://192.168.9.1:10086/rtp/239.21.0.82:3668
-#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="http://183.235.16.92:8081/pics/category/202006/24/2020062409553652569911.png" group-title="•广东「本地频道」",揭阳公共
-http://192.168.9.1:10086/rtp/239.21.0.83:3672
-#EXTINF:-1 tvg-id="河源新闻综合" tvg-name="河源新闻综合" tvg-logo="http://183.235.16.92:8081/pics/category/202003/01/2020030117193955295638.png" group-title="•广东「本地频道」",河源新闻综合
-http://192.168.9.1:10086/rtp/239.21.0.48:3532
-
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•港澳「网络频道」",鳳凰衛視·中文「限UA」
 https://tv.iill.top/IPTV/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•港澳「网络频道」",鳳凰衛視·資訊「限UA」
 https://tv.iill.top/IPTV/fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•港澳「网络频道」",鳳凰衛視·香港「限UA」
-https://stream1.freetv.fun/feng-huang-wei-shi-xiang-gang-1.ctv
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7
 #EXTINF:-1 tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="•港澳「网络频道」",HOY 國際財經台「限HK」
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="•港澳「网络频道」",HOY TV「限HK」
@@ -299,14 +280,14 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="TVB亚洲武侠" tvg-name="TVB亚洲武侠" tvg-logo="https://epg.iill.top/logo/功夫台.png" group-title="•港澳「网络频道」",TVB 功夫台
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.iill.top/logo/香港卫视.png" group-title="•港澳「网络频道」",香港衛視
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="•港澳「网络频道」",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="•港澳「网络频道」",無綫新聞台
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://upload.112114.xyz/logo/TVB4.png" group-title="•港澳「网络频道」",無綫新聞台
 https://stream1.freetv.fun/wu-xian-xin-wen-1.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•港澳「网络频道」",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="•港澳「网络频道」",翡翠台
 https://stream1.freetv.fun/fei-cui-9.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•港澳「网络频道」",明珠台
-https://stream1.freetv.fun/ming-zhu-1.ctv
+#EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" tvg-logo="https://ghproxy.kilvn.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="•港澳「网络频道」",TVB明珠
+http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKr0Erjh4wBbS4kIz81RMGhM/.m3u8
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•港澳「网络频道」",TVB Plus
 https://stream1.freetv.fun/tvb-plus-2.ctv
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="•港澳「网络频道」",ViuTV
@@ -317,8 +298,8 @@ https://stream1.freetv.fun/viutv-six-1.ctv
 https://tv.iill.top/IPTV/my
 #EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="•港澳「网络频道」",PopC
 https://stream1.freetv.fun/popc-1.m3u8
-#EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="•港澳「网络频道」",TVB 星河
-https://tv.iill.top/IPTV/xh
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="•港澳「网络频道」",TVB星河
+http://8.138.7.223/tv/gdmzyd.php?id=2
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.iill.top/logo/娱乐新闻.png" group-title="•港澳「网络频道」",娛樂新聞
 https://tv.iill.top/IPTV/ylxw
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="•港澳「网络频道」",千禧經典
@@ -339,13 +320,13 @@ https://tv.iill.top/nsw/qj
 https://stream1.freetv.fun/93009e7908bc1176f0a490c5ef7c266430ce0abebc9b64cf3332cedb79335c95.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.iill.top/logo/爆谷台.png" group-title="•港澳「网络频道」",now 爆谷
 https://stream1.freetv.fun/nowbao-gu-2.m3u8
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.iill.top/logo/澳门莲花.png" group-title="•港澳「网络频道」",澳門蓮花
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="•港澳「网络频道」",澳門蓮花
 https://tv.iill.top/mo/lhws
 #EXTINF:-1 tvg-id="澳门MACAU" tvg-name="澳门MACAU" tvg-logo="https://epg.iill.top/logo/澳门Macau.png" group-title="•港澳「网络频道」",澳門Macau
 https://stream1.freetv.fun/452b542e5625b7d3ae3c845827bc22e2a3dca8b198df17ee0863ea030ad6b78c.m3u8
 #EXTINF:-1 tvg-id="澳门葡文" tvg-name="澳门葡文" tvg-logo="https://epg.iill.top/logo/澳视葡文.png" group-title="•港澳「网络频道」",澳門葡文
 https://stream1.freetv.fun/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.iill.top/logo/澳视澳门.png" group-title="•港澳「网络频道」",澳視澳門
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="•港澳「网络频道」",澳視澳門
 http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 #EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://epg.iill.top/logo/澳门资讯.png" group-title="•港澳「网络频道」",澳門資訊
 https://stream1.freetv.fun/ao-men-zi-xun-2.m3u8
@@ -355,9 +336,6 @@ https://stream1.freetv.fun/ao-men-ti-yu-1.m3u8
 https://stream1.freetv.fun/ao-men-zong-yi-1.m3u8
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.cn/tv/澳亚卫视.png" group-title="•港澳「网络频道」",澳亞衛視
 http://219.137.231.108:8081/hls/22/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="日テレNEWS24HD" tvg-name="日テレNEWS24HD" tvg-logo="https://epg.iill.top/logo/日テレNEWS24.png" group-title="•日本「网络频道」",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="JSPORTS1HD" tvg-name="JSPORTS1HD" tvg-logo="https://epg.iill.top/logo/JSPORTS1.png" group-title="•日本「网络频道」",J SPORTS 1
@@ -436,4 +414,3 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="スターチャンネル3" tvg-name="スターチャンネル3" tvg-logo="https://epg.iill.top/logo/スターチャンネル3.png" group-title="•日本「网络频道」",スターチャンネル3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
