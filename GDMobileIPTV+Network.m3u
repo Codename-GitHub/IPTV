@@ -98,6 +98,7 @@ http://192.168.9.1:10086/rtp/239.11.0.35:1025
 http://192.168.9.1:10086/rtp/239.11.0.176:1025
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="•央视「本地频道」",CHC影迷电影
 http://192.168.9.1:10086/rtp/239.11.0.129:1025
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="•卫视「本地频道」",北京卫视
 http://192.168.9.1:10086/rtp/239.10.0.131:1025
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="•卫视「本地频道」",湖南卫视
@@ -174,6 +175,7 @@ http://192.168.9.1:10086/rtp/239.10.0.140:1025
 http://192.168.9.1:10086/rtp/239.10.0.178:1025
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="•卫视「本地频道」",山东教育卫视
 http://192.168.9.1:10086/rtp/239.10.0.176:1025
+
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="•广东「本地频道」",广州综合
 http://192.168.9.1:10086/rtp/239.11.0.138:1025
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="•广东「本地频道」",广州新闻
@@ -256,6 +258,42 @@ http://192.168.9.1:10086/rtp/239.10.0.238:1025
 http://192.168.9.1:10086/rtp/239.10.0.253:1025
 #EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://8820.kstore.space/湛江公共.png" group-title="•广东「本地频道」",湛江公共高清
 http://192.168.9.1:10086/rtp/239.10.0.254:1025
+
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="•内地「本地频道」",金鹰卡通
+http://192.168.9.1:10086/rtp/239.11.0.125:1025
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png" group-title="•内地「本地频道」",卡酷动画
+http://192.168.9.1:10086/rtp/239.10.0.172:1025
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="•内地「本地频道」",炫动卡通
+http://192.168.9.1:10086/rtp/239.10.0.174:1025
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="•内地「本地频道」",上海纪实高清
+http://192.168.9.1:10086/rtp/239.10.0.78:1025
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="•内地「本地频道」",金鹰纪实高清
+http://192.168.9.1:10086/rtp/239.10.0.206:1025
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="•内地「本地频道」",求索纪录高清
+http://192.168.9.1:10086/rtp/239.11.0.128:1025
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="•内地「本地频道」",茶频道高清
+http://192.168.9.1:10086/rtp/239.11.0.130:1025
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="•内地「本地频道」",快乐垂钓高清
+http://192.168.9.1:10086/rtp/239.11.0.131:1025
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="•内地「本地频道」",天元围棋高清
+http://192.168.9.1:10086/rtp/239.11.0.169:1025
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="•内地「本地频道」",中国交通高清
+http://192.168.9.1:10086/rtp/239.10.0.72:1025
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://8820.kstore.space/睛彩竞技.png" group-title="•内地「本地频道」",睛彩竞技
+http://192.168.9.1:10086/rtp/239.11.0.183:1025
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://8820.kstore.space/睛彩广场舞.png" group-title="•内地「本地频道」",睛彩广场舞
+http://192.168.9.1:10086/rtp/239.11.0.184:1025
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://epg.112114.xyz/logo/环球奇观.png" group-title="•内地「本地频道」",环球奇观
+http://192.168.9.1:10086/rtp/239.10.0.36:1025
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.112114.xyz/logo/国学.png" group-title="•内地「本地频道」",国学频道
+http://192.168.9.1:10086/rtp/239.10.0.38:1025
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="•内地「本地频道」",财富天下
+http://192.168.9.1:10086/rtp/239.10.0.177:1025
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="•内地「本地频道」",汽摩
+http://192.168.9.1:10086/rtp/239.10.0.232:1025
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="•内地「本地频道」",书画
+http://192.168.9.1:10086/rtp/239.11.0.174:1025
+
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•港澳「网络频道」",鳳凰衛視·中文「限UA」
 https://tv.iill.top/IPTV/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•港澳「网络频道」",鳳凰衛視·資訊「限UA」
@@ -338,6 +376,9 @@ https://stream1.freetv.fun/ao-men-zong-yi-1.m3u8
 http://219.137.231.108:8081/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="日テレNEWS24HD" tvg-name="日テレNEWS24HD" tvg-logo="https://epg.iill.top/logo/日テレNEWS24.png" group-title="•日本「网络频道」",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="JSPORTS1HD" tvg-name="JSPORTS1HD" tvg-logo="https://epg.iill.top/logo/JSPORTS1.png" group-title="•日本「网络频道」",J SPORTS 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="JSPORTS2HD" tvg-name="JSPORTS2HD" tvg-logo="https://epg.iill.top/logo/JSPORTS2.png" group-title="•日本「网络频道」",J SPORTS 2
