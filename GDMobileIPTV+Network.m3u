@@ -240,7 +240,7 @@ http://192.168.9.1:10086/rtp/239.11.0.84:1025
 http://192.168.9.1:10086/rtp/239.10.0.139:1025
 #EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="•广东「本地频道」",江门综合
 http://192.168.9.1:10086/rtp/239.10.0.219:1025
-#EXTINF:-1 tvg-id="珠海-1" tvg-name="珠海-1" tvg-logo="https://8820.kstore.space/珠海综合.png" group-title="•广东「本地频道」",珠海-1
+#EXTINF:-1 tvg-id="珠海综合" tvg-name="珠海综合" tvg-logo="https://8820.kstore.space/珠海综合.png" group-title="•广东「本地频道」",珠海综合
 http://192.168.9.1:10086/rtp/239.10.0.242:1025
 #EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="•广东「本地频道」",中山综合
 http://192.168.9.1:10086/rtp/239.11.0.122:1025
@@ -279,9 +279,9 @@ http://192.168.9.1:10086/rtp/239.11.0.131:1025
 http://192.168.9.1:10086/rtp/239.11.0.169:1025
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="•内地「本地频道」",中国交通
 http://192.168.9.1:10086/rtp/239.10.0.72:1025
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://8820.kstore.space/睛彩竞技.png" group-title="•内地「本地频道」",睛彩竞技
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="•内地「本地频道」",睛彩竞技
 http://192.168.9.1:10086/rtp/239.11.0.183:1025
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://8820.kstore.space/睛彩广场舞.png" group-title="•内地「本地频道」",睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="•内地「本地频道」",睛彩广场舞
 http://192.168.9.1:10086/rtp/239.11.0.184:1025
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://epg.112114.xyz/logo/环球奇观.png" group-title="•内地「本地频道」",环球奇观
 http://192.168.9.1:10086/rtp/239.10.0.36:1025
